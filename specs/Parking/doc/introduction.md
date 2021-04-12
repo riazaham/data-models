@@ -1,5 +1,10 @@
 # Parking Harmonized Data Models
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 These data models are intended to model entities relevant for parking use cases
 in smart cities scenarios. When feasible these models reuse types, properties
 and enumerations from

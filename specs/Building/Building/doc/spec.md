@@ -1,5 +1,10 @@
 # Building
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 ## Description
 
 This entity contains a harmonised description of a Building. This entity is
@@ -153,7 +158,15 @@ Normalized NGSI response
         "type": "geo:json",
         "value": {
             "type": "Polygon",
-            "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+            "coordinates": [
+                [
+                    [100, 0],
+                    [101, 0],
+                    [101, 1],
+                    [100, 1],
+                    [100, 0]
+                ]
+            ]
         }
     },
     "address": {
@@ -184,7 +197,15 @@ Normalized NGSI response
     "containedInPlace": {
         "value": {
             "type": "Polygon",
-            "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+            "coordinates": [
+                [
+                    [100, 0],
+                    [101, 0],
+                    [101, 1],
+                    [100, 1],
+                    [100, 0]
+                ]
+            ]
         }
     }
 }
@@ -205,11 +226,27 @@ Sample uses simplified representation for data consumers `?options=keyValues`
     "category": ["office"],
     "containedInPlace": {
         "type": "Polygon",
-        "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+        "coordinates": [
+            [
+                [100, 0],
+                [101, 0],
+                [101, 1],
+                [100, 1],
+                [100, 0]
+            ]
+        ]
     },
     "location": {
         "type": "Polygon",
-        "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+        "coordinates": [
+            [
+                [100, 0],
+                [101, 0],
+                [101, 1],
+                [100, 1],
+                [100, 0]
+            ]
+        ]
     },
     "address": {
         "addressLocality": "London",
@@ -271,7 +308,15 @@ Sample uses the NGSI-LD representation
         "type": "GeoProperty",
         "value": {
             "type": "Polygon",
-            "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+            "coordinates": [
+                [
+                    [100, 0],
+                    [101, 0],
+                    [101, 1],
+                    [100, 1],
+                    [100, 0]
+                ]
+            ]
         }
     },
     "address": {
@@ -302,7 +347,15 @@ Sample uses the NGSI-LD representation
         "type": "Property",
         "value": {
             "type": "Polygon",
-            "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+            "coordinates": [
+                [
+                    [100, 0],
+                    [101, 0],
+                    [101, 1],
+                    [100, 1],
+                    [100, 0]
+                ]
+            ]
         }
     },
     "@context": [

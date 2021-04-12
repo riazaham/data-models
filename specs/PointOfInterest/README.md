@@ -1,10 +1,11 @@
 # Point Of interest
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
 
-**Note: The latest version of these Data Models can be found at
-[https://github.com/smart-data-models/dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)**
-
-This repository is going to be archived (Jan-2020) and subsequent works will be carried out in [Smart data models] (https://github.com/smart-data-models) repositories. Further questions on migration. alberto.abella@fiware.org
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories. The
+> latest version of these Data Models can be found at
+> [https://github.com/smart-data-models/dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)\*\*
 
 This folder contains all the code related to a harmonized NGSI v2 endpoint.
 

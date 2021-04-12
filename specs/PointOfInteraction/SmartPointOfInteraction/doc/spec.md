@@ -1,5 +1,10 @@
 # SmartPointOfInteraction
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 ## Description
 
 A Smart Point of Interaction defines a place with technology to interact with

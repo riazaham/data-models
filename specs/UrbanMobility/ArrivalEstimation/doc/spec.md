@@ -1,5 +1,10 @@
 # ArrivalEstimation
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 ## Description
 
 This Entity Type captures the estimated arrival time of a public transport

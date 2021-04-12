@@ -1,5 +1,10 @@
 # Transportation Harmonized Data Models
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 These data models describe the main entities involved with smart applications
 that deal with transportation issues. This set of entities is primarily
 associated with the Automotive and Smart City vertical segments and related IoT

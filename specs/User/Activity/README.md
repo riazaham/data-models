@@ -1,5 +1,10 @@
 # UserActivity
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 This entity represents the current activity performed by a User. It can be used
 in different scenarios, from modelling social activities on a site (e.g.
 Federico shares the a picture of his dog) to real life activities (e.g. Federico

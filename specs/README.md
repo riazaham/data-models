@@ -1,6 +1,9 @@
 # FIWARE Data Models Specification
 
-This repository is going to be archived (Jan-2020) and subsequent works will be carried out in [Smart data models] (https://github.com/smart-data-models) repositories. Further questions on migration. alberto.abella@fiware.org
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
 
 This folder contains the specification of FIWARE Data Models for the following
 themes:

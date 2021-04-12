@@ -1,5 +1,10 @@
 # Key Performance Indicator
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 According to [Wikipedia](https://en.wikipedia.org/wiki/Performance_indicator) a
 Key Performance Indicator (KPI) is a type of performance measurement. KPIs
 evaluate the success of an organization or of a particular activity in which it

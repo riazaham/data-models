@@ -1,5 +1,10 @@
 # UserContext
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 This data model describe the Context of a User. No personal data is encoded in
 the model. The actual User data are stored in a different end point, as
 identified by the `refUser` property.

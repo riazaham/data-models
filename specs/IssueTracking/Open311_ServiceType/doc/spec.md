@@ -1,5 +1,10 @@
 # Open 311 Service Type
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 As per [Open311](http://wiki.open311.org/GeoReport_v2/#get-service-list) an
 entity of type `ServiceType` is an acceptable 311 service request type. A
 request type can be unique to the city/jurisdiction.

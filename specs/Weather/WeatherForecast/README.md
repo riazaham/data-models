@@ -1,5 +1,10 @@
 # Weather Forecast
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 The Weather forecasts in Spain are provided by
 [Spanish National Meteorology Agency](http://aemet.es), from Portugal by
 [Instituto Português do Mar e da Atmosfera](http://www.ipma.pt/pt).

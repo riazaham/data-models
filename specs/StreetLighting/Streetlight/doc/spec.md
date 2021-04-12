@@ -1,7 +1,11 @@
 # Streetlight
 
-**Note: The latest version of this Data Model can be found at
-[https://github.com/smart-data-models/dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)**
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories. The
+> latest version of this Data Model can be found at
+> [https://github.com/smart-data-models/dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
 
 An entity of type `Streetlight` represents a urban streetlight. Actually, there
 will be an entity of type `Streetlight` per lamp. Thus, if a particular pole

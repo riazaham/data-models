@@ -1,5 +1,10 @@
 # Civic Issue Tracking data models
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 These data models allow to perform civic issue tracking. They have been designed
 with a view to enabling trivial interoperability between FIWARE NGSI version 2
 and [Open311](http://www.open311.org/). As a result, property names have not

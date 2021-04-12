@@ -1,5 +1,10 @@
 # Point of interest data models.
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 These data models allow to model points of interest and related entity types:
 
 -   [PointOfInterest](../PointOfInterest/doc/spec.md) : A harmonised geographic

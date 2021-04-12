@@ -1,7 +1,9 @@
 # Waste Container Isle
 
-**Note: The latest version of this Data Model can be found at
-[https://github.com/smart-data-models/dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)**
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> The latest version of this Data Model can be found at
+> [https://github.com/smart-data-models/dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
 
 ## Description
 

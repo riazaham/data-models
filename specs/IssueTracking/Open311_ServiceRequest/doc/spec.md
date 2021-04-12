@@ -1,5 +1,10 @@
 # Open 311 Service Request
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 An entity of type `ServiceRequest` is an acceptable Open 311 service request.
 Such entity encompasses all the properties defined by Open 311 at
 [POST Service Request](http://wiki.open311.org/GeoReport_v2/#post-service-request)

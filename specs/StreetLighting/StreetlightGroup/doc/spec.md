@@ -1,7 +1,11 @@
 # Streetlight group
 
-**Note: The latest version of this Data Model can be found at
-[https://github.com/smart-data-models/dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)**
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories. The
+> latest version of this Data Model can be found at
+> [https://github.com/smart-data-models/dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
 
 An entity of type `StreetlightGroup` represents a group of streetlights. They
 might be controlled together by the same automated system (cabinet controller).
@@ -199,8 +203,14 @@ Normalized NGSI response
         "value": {
             "type": "MultiLineString",
             "coordinates": [
-                [[100.0, 0.0], [101.0, 1.0]],
-                [[102.0, 2.0], [103.0, 3.0]]
+                [
+                    [100.0, 0.0],
+                    [101.0, 1.0]
+                ],
+                [
+                    [102.0, 2.0],
+                    [103.0, 3.0]
+                ]
             ]
         }
     },
@@ -221,8 +231,14 @@ Sample uses simplified representation for data consumers `?options=keyValues`
     "location": {
         "type": "MultiLineString",
         "coordinates": [
-            [[100.0, 0.0], [101.0, 1.0]],
-            [[102.0, 2.0], [103.0, 3.0]]
+            [
+                [100.0, 0.0],
+                [101.0, 1.0]
+            ],
+            [
+                [102.0, 2.0],
+                [103.0, 3.0]
+            ]
         ]
     },
     "powerState": "on",
@@ -292,8 +308,14 @@ Sample uses the NGSI-LD representation
         "value": {
             "type": "MultiLineString",
             "coordinates": [
-                [[100.0, 0.0], [101.0, 1.0]],
-                [[102.0, 2.0], [103.0, 3.0]]
+                [
+                    [100.0, 0.0],
+                    [101.0, 1.0]
+                ],
+                [
+                    [102.0, 2.0],
+                    [103.0, 3.0]
+                ]
             ]
         }
     },

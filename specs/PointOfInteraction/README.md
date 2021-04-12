@@ -1,6 +1,9 @@
 # Smart Point of Interaction data model
 
-This repository is going to be archived (Jan-2020) and subsequent works will be carried out in [Smart data models] (https://github.com/smart-data-models) repositories. Further questions on migration. alberto.abella@fiware.org
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
 
 As an alternative or extension to traditional interactive points (shopping
 malls, museums, airports, etc.), a Smart Point of Interaction use technologies

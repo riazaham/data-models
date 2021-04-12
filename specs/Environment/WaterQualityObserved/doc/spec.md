@@ -1,7 +1,11 @@
 # Water Quality
 
-**Note: The latest version of this Data Model can be found at
-[https://github.com/smart-data-models/dataModel.Environment](https://github.com/smart-data-models/dataModel.Environment)**
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.he
+> latest version of this Data Model can be found at
+> [https://github.com/smart-data-models/dataModel.Environment](https://github.com/smart-data-models/dataModel.Environment)
 
 ## Description
 

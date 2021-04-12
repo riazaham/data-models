@@ -22,11 +22,27 @@ API implementation, you need to use the `keyValues` mode (`options=keyValues`).
     "category": ["office"],
     "containedInPlace": {
         "type": "Polygon",
-        "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+        "coordinates": [
+            [
+                [100, 0],
+                [101, 0],
+                [101, 1],
+                [100, 1],
+                [100, 0]
+            ]
+        ]
     },
     "location": {
         "type": "Polygon",
-        "coordinates": [[[100, 0], [101, 0], [101, 1], [100, 1], [100, 0]]]
+        "coordinates": [
+            [
+                [100, 0],
+                [101, 0],
+                [101, 1],
+                [100, 1],
+                [100, 0]
+            ]
+        ]
     },
     "address": {
         "addressLocality": "London",

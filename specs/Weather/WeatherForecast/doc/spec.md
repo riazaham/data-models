@@ -1,7 +1,9 @@
 # Weather Forecast
 
-**Note: The latest version of this Data Model can be found at
-[https://github.com/smart-data-models/dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)**
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> The latest version of this Data Model can be found at
+> [https://github.com/smart-data-models/dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
 
 ## Description
 

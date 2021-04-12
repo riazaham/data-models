@@ -1,18 +1,20 @@
 # How to use Smart Data Models in your projects
 
 This section aims to provide few simple guidelines for the adoption of Smart
-Data Models. Readers interested into modifying or creating new data
-models should refer to [Data models guidelines](https://github.com/smart-data-models/data-models/blob/master/guidelines.md). This guide is
-not exhaustive and does not aim to cover the specifics of each model, rather it
-provides general usage tips valid for most of the existing models and for
-expected models in the future.
+Data Models. Readers interested into modifying or creating new data models
+should refer to
+[Data models guidelines](https://github.com/smart-data-models/data-models/blob/master/guidelines.md).
+This guide is not exhaustive and does not aim to cover the specifics of each
+model, rather it provides general usage tips valid for most of the existing
+models and for expected models in the future.
 
 Data Models have been defined in relation to the FIWARE reference data context
 model ([NGSI v2](http://fiware.github.io/specifications/ngsiv2/stable/)). While
 this does not imply that they cannot be used outside of the NGSI context model,
-it does however indicate that some of [design principles](https://github.com/smart-data-models/data-models/blob/master/guidelines.md) have
-been driven by that. This also implicitly means that Data Models will follow the
-evolution of FIWARE platform,
+it does however indicate that some of
+[design principles](https://github.com/smart-data-models/data-models/blob/master/guidelines.md)
+have been driven by that. This also implicitly means that Data Models will
+follow the evolution of FIWARE platform,
 [NGSI-LD](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/004/01.01.01_60/gs_CIM004v010101p.pdf)
 mappings are being added to all existing Data Models.
 
@@ -37,8 +39,8 @@ The general principle guiding your adoption should be: keep it simple.
     interoperability. Of course it may be the case that the model is not
     covering your scenario, or it contains errors. Open a ticket in the
     repository, and let the community discuss on the issue!
-    [Contribute](https://github.com/smart-data-models/data-models/blob/master/guidelines.md) to the evolution of the model! In doing so
-    please keep in mind the
+    [Contribute](https://github.com/smart-data-models/data-models/blob/master/guidelines.md)
+    to the evolution of the model! In doing so please keep in mind the
     [guidelines to create new data models](https://github.com/smart-data-models/data-models/blob/master/guidelines.md).
 -   **While not generally advised, you can add additional attributes in your
     specific application for the purpose of your application.** Be aware that of
@@ -293,7 +295,8 @@ and so also include standard GSMA terminology such as:
     as `https://uri.etsi.org/ngsi-ld/description`
 -   `dataProvider`: A name identifying the entity providing the data.
 
-See for example the [`Building` Data Model](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/smart-data-models/dataModel.Building/master/Building/swagger.yaml).
+See for example the
+[`Building` Data Model](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/smart-data-models/dataModel.Building/master/Building/swagger.yaml).
 
 Similarly most of the Smart Data Models adopt the
 [Location common definitions](https://smart-data-models.github.io/data-models/common-schema.json),

@@ -1,5 +1,10 @@
 # Street Lighting Data Models
 
+![](https://nexus.lab.fiware.org/static/badges/statuses/deprecated.svg)
+
+> This repository is now archived and subsequent works will be carried out the
+> in [Smart data models](https://github.com/smart-data-models) repositories.
+
 Streetlights, commonly known as 'lamp-posts', are designed to make the streets
 safer for pedestrians and drivers. These data models are intended to model
 streetlights and all their controlling equipment towards energy-efficient and
