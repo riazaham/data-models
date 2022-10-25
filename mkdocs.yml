@@ -9,7 +9,7 @@ markdown_extensions: [toc,fenced_code]
 use_directory_urls: false
 theme: readthedocs
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_deprecated.css"]
-pages:
+nav:
   - Home: index.md
   - How to: howto.md
   - NGSI-LD How to: ngsi-ld_howto.md
