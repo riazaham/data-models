@@ -1,6 +1,0 @@
-{
-    "@context": {
-        "testingVariable123": "https://uri.fiware.org/ns/data-models#testingVariable123"
-    },
-    "generatedAt": "2022-03-30T15:05:49+00:00"
-}

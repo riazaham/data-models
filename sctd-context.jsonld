@@ -1,0 +1,13 @@
+{
+    "@context": {
+        "voltage1": "https://uri.etsi.org/ngsi-ld/default-context/voltage1",
+        "voltage2": "https://uri.etsi.org/ngsi-ld/default-context/voltage2",
+        "voltage3": "https://uri.etsi.org/ngsi-ld/default-context/voltage3",
+        "power1": "https://uri.etsi.org/ngsi-ld/default-context/power1",
+        "power2": "https://uri.etsi.org/ngsi-ld/default-context/power2",
+        "power3": "https://uri.etsi.org/ngsi-ld/default-context/power3",
+        "current1": "https://uri.etsi.org/ngsi-ld/default-context/voltage1",
+        "current2": "https://uri.etsi.org/ngsi-ld/default-context/voltage1",
+        "current3": "https://uri.etsi.org/ngsi-ld/default-context/voltage1",
+    }
+}
