@@ -1,6 +1,6 @@
 {
     "@context": {
-        "sctd-ld": "https://uri.sctd-ld.org"
-    },
-    "generatedAt": "2021-03-30T15:05:49+00:00"
+        "sctd-ld": "https://uri.sctd-ld.org",
+        "voltage1": "https://uri.sctd-ld.org/voltage1
+    }
 }
